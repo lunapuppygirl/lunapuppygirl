@@ -16,24 +16,22 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 28 mins       ██████████████████████░░░   86.30 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-textmate                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                   1 hr 17 mins        ███████████████████░░░░░░   75.45 % 
+Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+textmate                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Java Properties          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 53 mins       ████████████████████████░   94.13 % 
-IntelliJ IDEA            18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+PyCharm                  1 hr 24 mins        █████████████████████░░░░   82.15 % 
+IntelliJ IDEA            18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 
 🐱‍💻 Projects: 
-discord-favorite-gif-down4 hrs 29 mins       ██████████████████████░░░   86.39 % 
-GifSaver                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-LunaBin                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-helium-spammer           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+discord-favorite-gif-down1 hr 24 mins        █████████████████████░░░░   82.15 % 
+LunaBin                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 
 💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 
