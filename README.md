@@ -12,19 +12,16 @@
 
 ```text
 💬 Programming Languages: 
-textmate                 4 mins              ██████████████████████░░░   87.70 % 
-Java                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Kotlin                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LunaBin                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
