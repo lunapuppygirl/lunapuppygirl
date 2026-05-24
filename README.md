@@ -12,16 +12,21 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 hrs 35 mins       ██████████████████████░░░   89.19 % 
+Kotlin                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            4 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Puppi                    3 hrs 31 mins       ██████████████████████░░░   87.66 % 
+skidium                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
