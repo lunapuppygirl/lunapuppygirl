@@ -8,5 +8,27 @@
 ## some wakatime stats :p
        
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     3 hrs 38 mins       ██████████████████████░░░   89.33 % 
+Kotlin                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+🔥 Editors: 
+IntelliJ IDEA            4 hrs 4 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Puppi                    3 hrs 31 mins       ██████████████████████░░░   86.53 % 
+skidium                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+LunaBin                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+
+💻 Operating System: 
+Linux                    4 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
