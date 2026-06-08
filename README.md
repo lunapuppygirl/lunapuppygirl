@@ -12,22 +12,21 @@
 
 ```text
 💬 Programming Languages: 
-Java                     5 hrs 41 mins       ████████████████████░░░░░   78.59 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Kotlin                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Properties               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Properties               21 mins             ██████████░░░░░░░░░░░░░░░   39.94 % 
+Java                     20 mins             ██████████░░░░░░░░░░░░░░░   38.77 % 
+JSON                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Mixin Json Configuration 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 13 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PuppyMerchant            6 hrs 29 mins       ██████████████████████░░░   89.82 % 
-CropProgressBar          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Puppi                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+CropProgressBar          43 mins             ████████████████████░░░░░   80.66 % 
+PuppyMerchant            10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 
 💻 Operating System: 
-Linux                    7 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    54 mins             █████████████████████████   100.00 % 
 ```
 
 
