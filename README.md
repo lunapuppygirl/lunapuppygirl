@@ -12,21 +12,16 @@
 
 ```text
 💬 Programming Languages: 
-Properties               21 mins             ██████████░░░░░░░░░░░░░░░   39.94 % 
-Java                     20 mins             ██████████░░░░░░░░░░░░░░░   38.77 % 
-JSON                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Mixin Json Configuration 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CropProgressBar          43 mins             ████████████████████░░░░░   80.66 % 
-PuppyMerchant            10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
